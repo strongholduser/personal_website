@@ -1,0 +1,54 @@
+
+
+aside{
+	width: 50%;
+	background-color: rgba(10,24,120,0);
+	color: # 0c510b;
+	float: right;
+	
+	margin-top: -120px;
+	height: 180px;
+	padding: 30px;
+}
+
+body {
+ 
+  font-family:verdana;
+
+	background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7420573.jpg&f=1&nofb=1&ipt=45f8da725de4cf3c9c2c84232ccc0b988eb9a8d2f161c86f19b8984208381546');
+
+}
+
+.container {
+  
+  max-width: 2000px;
+  margin:  auto;
+
+}
+
+
+
+header {
+  background-color: rgba(61,61,61,0.5);
+  color: #fff;
+  padding: 10px;
+}
+
+
+.hero {
+
+  background-size: cover;
+  color: #fff;
+  padding: 0px;
+  text-align: center;
+}
+
+.content {
+	
+  background-color: rgba(10,24,120,0.5);
+  margin: 10px;
+  padding: 50px;
+  
+  
+}
+
